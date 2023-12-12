@@ -1,0 +1,53 @@
+Title: 1. Mannschaft
+
+----
+
+Text: Unsere 1. Mannschaft trainiert jeden Dienstag und Donnerstag ab 19:00 Uhr auf dem Schächle.
+
+----
+
+Mannschaftsbild: mannschaften/herren/1-1-mannschaft/herren_1_website.jpg
+
+----
+
+Tabs:
+
+- 
+  name: Sebastian von Au
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  trainerbild: >
+    mannschaften/herren/1-1-mannschaft/sebastian_von_au.jpg
+- 
+  name: Stefan Schanz
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  trainerbild: >
+    mannschaften/herren/1-1-mannschaft/stefan_schanz.jpg
+- 
+  name: Simon Günter
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  trainerbild: >
+    mannschaften/herren/1-1-mannschaft/simon_guenter.jpg
+
+----
+
+Description: Hier finden Sie die drei aktiven Herrenmannschaften des FV Tennenbronns.
+
+----
+
+Keywords: FV Tennenbronn, Fußballverein, Fussballverein, FVT, Herren, 1. Mannschaft, 2. Mannschaft, 3. Mannschaft, Trainer
+
+----
+
+Uuid: ognU4bUjyTcW58sM

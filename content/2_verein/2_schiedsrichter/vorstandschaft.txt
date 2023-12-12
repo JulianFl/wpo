@@ -1,0 +1,79 @@
+Title: Schiedsrichter
+
+----
+
+Description: Infos zu den Schiedsrichtern des FV Tennenbronns finden Sie hier.
+
+----
+
+Keywords: Schiedsrichter, FVT, FV Tennenbronn, Fußballverein
+
+----
+
+Headerbild: verein/schiedsrichter/schiedsrichter.jpg
+
+----
+
+Tabs:
+
+- 
+  title: Dominic Staiger
+  name: tätig seit 2003
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: >
+    verein/schiedsrichter/dominic_staiger.jpg
+- 
+  title: Herbert Kinzel
+  name: ""
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: >
+    verein/schiedsrichter/herbert_kinzel.jpeg
+- 
+  title: Fabrice Moosman
+  name: ""
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: >
+    verein/schiedsrichter/fabrice_moosmann.jpg
+  text: |
+    - 21
+    - Email
+    - Tennenbronn
+- 
+  title: Maya Fiedler
+  name: ""
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: verein/schiedsrichter/maya_fiedler.jpg
+- 
+  title: Julian Schweizer
+  name: ""
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: >
+    verein/schiedsrichter/julian_schweizer.jpg
+
+----
+
+Pages: false
+
+----
+
+Uuid: QVI6Kah79ra6mF1R

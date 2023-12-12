@@ -1,0 +1,17 @@
+Title: News
+
+----
+
+Description: Alle aktuellen Infos und News über den FV Tennenbronn finden Sie hier
+
+----
+
+Keywords: Aktuelles, News, FVT, FV Tennenbronn
+
+----
+
+Headerbild: news/trikots.jpg
+
+----
+
+Uuid: 6DDv5pGGb4YuKTHe

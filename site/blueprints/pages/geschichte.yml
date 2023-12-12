@@ -1,0 +1,53 @@
+title: Geschichte
+
+files: true
+
+template: geschichte
+
+pages: false
+
+preset: page
+
+fields:
+
+  description:
+    label: Beschreibung
+    type: textarea
+    width: 1/2
+
+  keywords:
+    label: Stichwörter
+    type: textarea
+    width: 1/2
+
+  title:
+    label: Titel
+    type: text
+
+  headerbild:
+    label: headerBild
+    type: files
+    multiple: false
+
+  tabs:
+    label: Geschichte
+    type: structure
+    style: table
+    fields:
+      title:
+        label: Title
+        type: text
+      text:
+        label: Text
+        type: textarea
+        max: 50
+      picture:
+        label: Bild
+        type: files
+        multiple: false
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Title: Sponsoren
+
+----
+
+Headerbild: bohnert.jpg
+
+----
+
+Tabs:
+
+- 
+  title: Sponsor der Ausgehanzüge
+  picture: bomo.jpg
+  picture1: schuele.gif
+
+----
+
+Uuid: r5YQHr6vVbFuVjXY

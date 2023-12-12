@@ -1,0 +1,30 @@
+title: Kontakt
+
+files: true
+
+template: contact
+
+pages: false
+
+  fields:
+    description:
+    label: Beschreibung
+    type: textarea
+    width: 1/2
+
+  keywords:
+    label: Stichwörter
+    type: textarea
+    width: 1/2
+
+  title:
+    label: Titel
+    type: text
+
+
+
+
+
+
+
+

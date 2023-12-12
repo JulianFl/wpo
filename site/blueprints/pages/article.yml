@@ -1,0 +1,29 @@
+title: Artikel
+
+pages: false
+
+template: article
+
+files: true
+
+preset: page
+
+fields:
+  title:
+    label: Title
+    type:  Text
+    width: 3/4
+
+  date:
+    icon: calendar
+    label: Date
+    type: date
+    display: dd-mm-yyyy
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/4
+
+  text:
+    label: Text
+    type:  textarea

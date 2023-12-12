@@ -1,0 +1,35 @@
+title: Mannschaft
+
+pages: true
+  template: team
+
+files: true
+
+template: mannschaft
+
+preset: page
+
+fields:
+  description:
+    label: Beschreibung
+    type: textarea
+    width: 1/2
+
+  keywords:
+    label: Stichwörter
+    type: textarea
+    width: 1/2
+
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+
+  headerbild:
+    label: Bild
+    type: files
+    multiple: false
+
+
+
+

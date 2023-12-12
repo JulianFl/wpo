@@ -1,0 +1,25 @@
+title: Verein
+
+files: true
+
+pages: true
+
+preset: page
+
+template: verein
+
+fields:
+
+  title:
+    label: Titel
+    type: text
+
+  headerbild:
+    label: Bild
+    type: select
+    options: files
+
+
+
+
+

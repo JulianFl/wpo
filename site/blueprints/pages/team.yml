@@ -1,0 +1,57 @@
+title: Team
+
+pages: false
+
+template: team
+
+preset: page
+
+files: true
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+
+  text:
+    label: Text
+    type:  textarea
+
+  mannschaftsbild:
+    label: Mannschaftsbild
+    type: files
+    multiple: false
+
+  tabs:
+    label: Trainer
+    type: structure
+    style: table
+    fields:
+      name:
+        label: Name
+        type: text
+      street:
+        label: Strasse
+        type: text
+      zip:
+        label: PLZ
+        type: number
+        width: 1/4
+      location:
+        label: Ort
+        type: text
+        width: 3/4
+      phone:
+        label: Telefonnummer
+        type: tel
+        width: 1/2
+      email:
+        label: Email
+        type: email
+        width: 1/2
+      trainerbild:
+        label: Bild
+        type: files
+        multiple: false
+

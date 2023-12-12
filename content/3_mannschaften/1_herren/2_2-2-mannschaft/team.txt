@@ -1,0 +1,45 @@
+Title: 2. Mannschaft
+
+----
+
+Text: Unsere 2. Mannschaft trainiert jeden Dienstag und Donnerstag ab 19:00 Uhr auf dem Schächle.
+
+----
+
+Mannschaftsbild: mannschaften/herren/2-2-mannschaft/herren_2_website.jpg
+
+----
+
+Tabs:
+
+- 
+  name: Björn Hermes
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  trainerbild: >
+    mannschaften/herren/2-2-mannschaft/bjorn-hermes.jpg
+  trainer: Daten
+- 
+  name: Andreas Dold
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  trainerbild: >
+    mannschaften/herren/2-2-mannschaft/andreas_dold.jpg
+
+----
+
+Description: 
+
+----
+
+Keywords: 
+
+----
+
+Uuid: WKwaUfRulGg2ohN1

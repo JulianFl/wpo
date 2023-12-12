@@ -1,0 +1,80 @@
+Title: FV Tennenbronn
+
+----
+
+Description: Der Fußballverein Tennenbronn hat 280 aktive und 456 passive Mitglieder.
+
+----
+
+Keywords: FV Tennenbronn, Fußballverein, Fussballverein,Herren, Damen, Jugend, Tennenbronn
+
+----
+
+Headerbild: home/startseite.jpg
+
+----
+
+Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+
+----
+
+Text:
+
+## Get started
+
+- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
+- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
+- Follow (twitter: @getkirby) on Twitter for updates
+- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
+- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
+- (link: http://getkirby.com/support text: Get in contact) if you need support.
+
+**Have fun with Kirby!**
+
+----
+
+Bild: FV-Tennenbronn.png
+
+----
+
+Zitat:
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyamLorem ipsum
+
+----
+
+Linksl:
+
+- (link: http://www.osteopathie-kienzler.de/ text: Ostheopathuööööööööööe)
+- (link: http://www.osteopathie-kienzler.de/ text: Ostheopathuöööööööööööööööööööööööööööööööööööööööööööööööööööööööööööe)
+- (link: http://www.osteopathie-kienzler.de/ text: Ostheopathuööööööööööööööööe)
+
+----
+
+Linksr:
+
+- (link: http://www.osteopathie-kienzler.de/ text: Ostheopathue Kienzler)
+- (link: http://www.osteopathie-kienzler.de/ text: Ostheopathue Kienzler Kinezler)
+- (link: http://www.osteopathie-kienzler.de/ text: Ostheopathue Kienzler Ostheopathue KienzlerOstheopathue KienzlerOstheopathue Kienzler)
+- (link: http://www.osteopathie-kienzler.de/ text: Kienzler)
+
+----
+
+Slideshow: link.png
+
+----
+
+Zitat1: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+
+----
+
+Zitat2: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+
+----
+
+Logo: FV-Tennenbronn.png
+
+----
+
+Uuid: 7DzdEw2PxqbcEOdx

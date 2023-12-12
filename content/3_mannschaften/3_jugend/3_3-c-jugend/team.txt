@@ -1,0 +1,32 @@
+Title: C-Jugend
+
+----
+
+Text: Unsere C-Jugend trainiert jeden Dienstag und Donnerstag ab 17:15 Uhr auf dem Schächle.
+
+----
+
+Mannschaftsbild: mannschaften/jugend/3-c-jugend/platzhalter_jugend_mannschaftsfoto.jpg
+
+----
+
+Tabs: 
+
+- 
+  name: Sergej Guba
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: C-Jugend@fv-tennenbronn.de
+  trainerbild: >
+    mannschaften/jugend/3-c-jugend/s_guba_2020.jpg
+- 
+  name: Jannik Ernst
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: C-Jugend@fv-tennenbronn.de
+  trainerbild: >
+    mannschaften/jugend/3-c-jugend/jannik_ernst.jpg

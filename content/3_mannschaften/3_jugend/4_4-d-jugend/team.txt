@@ -1,0 +1,41 @@
+Title: D-Jugend
+
+----
+
+Text: Unsere D-Jugend trainiert jeden Dienstag und Donnerstag ab 17:15 Uhr auf dem Schächle.
+
+----
+
+Mannschaftsbild: mannschaften/jugend/4-d-jugend/platzhalter_jugend_mannschaftsfoto.jpg
+
+----
+
+Tabs: 
+
+- 
+  name: Dirk Schramberger
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: D-Jugend@fv-tennenbronn.de
+  trainerbild: >
+    mannschaften/jugend/4-d-jugend/bildfolgt.jpg
+- 
+  name: Maurice Dresel
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: D-Jugend@fv-tennenbronn.de
+  trainerbild: >
+    mannschaften/jugend/4-d-jugend/bildfolgt.jpg
+- 
+  name: Romy Moosmann
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: D-Jugend@fv-tennenbronn.de
+  trainerbild: >
+    mannschaften/jugend/4-d-jugend/bildfolgt.jpg

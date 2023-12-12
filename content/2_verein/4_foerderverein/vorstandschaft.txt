@@ -1,0 +1,87 @@
+Title: Förderverein
+
+----
+
+Description: 
+
+----
+
+Keywords: 
+
+----
+
+Headerbild: verein/foerderverein/panorama.jpg
+
+----
+
+Tabs:
+
+- 
+  title: 1. Vorstand
+  name: Rafael Richel
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: verein/foerderverein/raphael_riechel.jpg
+- 
+  title: 2. Vorstand
+  name: Melanie Wegner
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: verein/foerderverein/melanie_wegner.jpg
+- 
+  title: Kassier
+  name: Sebastian Kaltenbacher
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: >
+    verein/foerderverein/sebastian_kaltenbacher.jpg
+- 
+  title: Schriftführer
+  name: Barbara Günter
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: verein/foerderverein/barbara_rapp.jpg
+- 
+  title: Kassenprüfer
+  name: Anja Moosmann
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: >
+    verein/foerderverein/anja_moosmann_jung.jpg
+- 
+  title: Beisitzer
+  name: Patricia Borho
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: verein/foerderverein/patricia_borho.jpg
+- 
+  title: Beisitzer
+  name: Tamara Kunz
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: ""
+  picture: verein/foerderverein/tamara_kunz.jpg
+
+----
+
+Uuid: QrcmWGl90HDGA6R5

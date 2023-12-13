@@ -7,3 +7,4 @@
 - [ ] Bildformate
 - [ ] HTML Struktur
 - [ ] Lazy Loading
+- [ ] Minify CSS

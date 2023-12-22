@@ -49,7 +49,17 @@
                     <a href="<?= $project->url() ?>">
 
                         <figure class="focuhila">
-                            <?php if ($project->headerbild()->isNotEmpty()):; ?>
+
+                            <?php if ($project->headerbild()->isNotEmpty()): ?>
+                                <?php if ($image = $project->headerbild()): ?>
+                                    <img
+                                            alt="<?= $image->alt() ?>"
+                                            src="<?= $image->resize(400)->url() ?>"
+                                            srcset="<?= $image->srcset([300, 600, 900, 1200, 1800]) ?>"
+                                            width="<?= $image->resize(1800)->width() ?>"
+                                            height="<?= $image->resize(1800)->height() ?>"
+                                    >
+                                <?php endif ?>
                                 <img class="card-img-top "  src="<?= $project->headerbild()->toFile()->url() ?>"
                                      title="<?= $project->title()->html() ?>" alt=" <?= $project->title()->html() ?>" width="540" height="231" loading="lazy" /><!--width="540" height="231" loading="lazy"-->
                             <?php endif ?>

@@ -1,0 +1,20 @@
+title: Impressum
+
+template: impressum
+
+preset: page
+
+fields:
+     description:
+          label: Beschreibung
+          type: textarea
+          width: 1/2
+
+     keywords:
+          label: Stichwörter
+          type: textarea
+          width: 1/2
+
+     impressum:
+          label: Text
+          type: textarea

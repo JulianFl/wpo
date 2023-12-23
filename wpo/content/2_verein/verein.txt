@@ -1,0 +1,20 @@
+Title: Verein
+
+----
+
+Headerbild: verein/trikots2.jpg
+
+----
+
+Text:
+
+###Jugendleitfaden
+- (file: jugendleitfaden.pdf)
+
+----
+
+Pages: true
+
+----
+
+Uuid: G29FJL6Lq0ZHRvCV

@@ -1,0 +1,91 @@
+Title: Geschichte
+
+----
+
+Description: Infos zur Geschichte des FV Tennenbronns finden Sie hier.
+
+----
+
+Keywords: Geschichte, FV Tennenbronn, FVT, Fußballverein, Gründerjahre, 20er, 30er, 40er, 60er, 70er, 8Oer, 90er, 2000er, 2009 - 2013
+
+----
+
+Headerbild: verein/geschichte/1921.jpg
+
+----
+
+Tabs:
+
+- 
+  title: Gründerjahre
+  text: |
+    Als die wichtigste Figur in der Gründungsgeschichte gilt Hermann Moser. Als er von Singen nach Tennenbronn zog, begeisterte er seine neuen Kameraden für das Fußballspiel. Lehrer Eckert nahm sich der jungen Männer an und lenkte die Begeisterung in die richtigen Bahnen.
+    
+    Erster Vorstand des FV wurde schließlich Johann Zehnder, alle übrigen Vorstandsposten übernahm Hermann Rieger, der zudem noch als Torwart in der ersten Mannschaft spielte und in den Premierenspielen gegen Schramberg und St. Georgen insgesamt 24 Gegentore einstecken musste.
+  picture: >
+    verein/geschichte/gruendungsmitglieder_02.jpg
+- 
+  title: 20er
+  text: 'War der FV Tennenbronn bereits im Jahre 1925 Meister der B-Klasse geworden, so gab es im Jahre 1928 einen neuen Höhepunkt in der Vereinsgeschichte: Unter der Vorstandsführung von Walter Rieger durfte Tennenbronn die Meisterschaft der A-Klasse feiern, verlor aber das Aufstiegsspiel gegen Immendingen.'
+  picture: verein/geschichte/1928-meisterschaft.jpg
+- 
+  title: 30er
+  text: |
+    Die weltweite Wirtschaftskrise in den folgenden Jahren schlug auch im Sport durch. Der größte Teil der Spieler wurde arbeitslos, das Geld für die Auswärtsfahrten konnte nicht mehr aufgebracht werden. Zwischenzeitlich war es dem Verein nicht einmal mehr möglich, den Beitrag an den Verband zu entrichten.
+    
+    1933 ging es wieder aufwärts. Johann Georg Röck hatte inzwischen die Zügel des Vereins in die Hand genommen. 1936 sicherte sich der FV den Aufstieg in die A-Klasse. Bis zum Kriegsbeginn im Jahre 1939 spielte Tennenbronn in dieser Liga, danach musste der Klub sein Vereinsleben einstellen.
+  picture: >
+    verein/geschichte/bild_an_bruecke_loewen.jpg
+- 
+  title: 40er
+  text: 'Die Wiedergründung erfolgte im Jahre 1946. Mit der Rückkehr der früheren Spieler aus der Gefangenschaft gewann die FV-Mannschaft auch wieder an Schlagkraft. Im Jahre 1954, das ganz im Zeichen des 40jährigen Bestehens stand, gelang der ersten Mannschaft mit dem Aufstieg in die A- Klasse ein echtes Jubiläumsgeschenk - doch schon ein Jahr darauf musste der Wiederabstieg in Kauf genommen werden. Der Sonntag des Jubiläumsfestes am 3. Juli 1954 geriet übrigens zu einem zusätzlichen Festtag, denn der Weltmeisterschaftsgewinn der deutschen Nationalmannschaft wurde bis tief in die Nacht gefeiert.'
+  picture: >
+    verein/geschichte/1_mannschaft_nach_krieg.jpg
+- 
+  title: 60er
+  text: |
+    Die folgenden Jahre waren nicht gerade von Erfolg geprägt. So war im Verein geradezu Erleichterung zu spüren, als sich im Jahre 1960 eine Persönlichkeit wie Franz Kaltenbacher bereiterklärte, das Ruder des FV zu übernehmen. Mit ihm kehrte der Erfolg zurück. Am 16. Juni 1961 sicherte sich der FV Tennenbronn die Meisterschaft in der B-Klasse. In der Aufstiegsrunde scheiterten die Schwarz-Blauen aber an Donaueschingen, Löffingen und St. Georgen II.
+    
+    Franz Kaltenbacher trieb auch den Neubau des Sportplatzes voran. So fiel am 26. Juli 1962 der Startschuss zu diesem zukunftsträchtigen Vorhaben. Passend zum 5Ojährigen Jubiläum erfolgte am 11. Juli 1964 die Einweihung des neuen Sportplatzes.
+  picture: >
+    verein/geschichte/platzeinweihung_1964_unter_engel.jpg
+- 
+  title: 70er
+  text: |
+    Zu Beginn der 70er Jahre übernahm eine neue Crew den Verein. Emil Hilser leitete zwei Jahre lang den Verein, Erwin Staiger übernahm die Trainingsleitung. Bereits die Saison 1970/71 endete mit einem doppelten Triumph, denn beide aktiven Mannschaften sicherten sich Meisterschaft und Aufstieg in die A- bzw. B- Klasse.
+    
+    Neue sportliche Höhenflüge bahnten sich an. Haas leitete bis zum März 1974 das Training und wurde dann von einem gewissen Wolfgang König abgelöst. Der aus Nordbaden nach Tennenbronn versetzte Lehrer schaffte in der "angebrochenen" Saison 1973/74 mit dem FV noch den 3. Platz und machte im darauffolgenden Jahr den Traum vom Aufstieg in die 2. Amateurliga wahr.
+  picture: verein/geschichte/70er.jpg
+- 
+  title: 8Oer
+  text: |
+    Die Abgänge von Franz Moosmann und den Gebrüdern Herzog schwächten den FV. So führte die "Erfolgsleiter" nach einem 15. Platz in der Saison 1980/81 den FV wieder nach unten in die Bezirksliga.
+    
+    Eine neue Generation musste ran. Die 80er Jahre begannen mit einem Neuaufbau. Es wurde eine neue Erfolgself zusammengezimmert. Mit Franz Gosein wurde ein Mann aus den eigenen Reihen als Trainer verpflichtet, der auf vielversprechende Talente aus der erfolgreichen A-Jugendmannschaft traf und mit geduldiger Aufbauarbeit den FV auf sportlichem Sektor voranbrachte. Dabei verpasste man in der Saison 1984/85 nur durch das schlechtere Torverhältnis gegenüber dem TUS Blumberg den Aufstieg in die Landesliga.
+    
+    In der Saison 1985/86 peilte dann der als Spielertrainer zurückgekehrte Franz Moosmann die Meisterschaft und den Aufstieg in die Landesliga an. Dem überlegenen Titelgewinn in der Bezirksliga folgten neue sportliche Erfolge, die Erinnerungen an die 2. Amateurliga-Zeiten aufkommen ließen. Auf Anhieb gelang als Aufsteiger in der Saison 1986/87 ein 4. Platz. Auch in den folgenden Jahren spielte der FV im vorderen Tabellendrittel mit.
+  picture: verein/geschichte/86db81cd51.jpg
+- 
+  title: 90er
+  text: |
+    Als 1989 der erfolgreiche Trainer Franz Moosmann von Tennenbronn zum FC 08 Villingen wechselte, wurde Wolfgang Thumser neuer Trainer beim FVT. In den darauffolgenden 3 Jahren blieb der FVT in der Landesliga. Nach der Saison 1991/92 legte Wolfgang Thumser das Traineramt beim FV nieder. Sein Nachfolger wurde der ehemalige Jugendnationalspieler Günter Seidel. In der Saison 1992/93 musste dann der FVT den Abstieg in die Bezirksliga nach 7 Jahren Landesligazugehörigkeit hinnehmen. Nachdem im nächsten Jahr der Versuch des Wiederaufstiegs scheiterte, verließ Günter Seidel Tennenbronn.
+    Was im letzten Jahr nicht gelang, funktionierte in der Saison 1994/95. Unter dem Tennenbronner Trainer Reinhold Fleig gelang in der Bezirksliga der 2. Platz. Somit gab es ein Aufstiegsspiel gegen Boll / Krumbach / Bietingen. Das erste Spiel, welches auf dem Schächle stattfand, wurde vom FVT mit 2:1 gewonnen. Das Auswärtsspiel in Boll entschied der Gastgeber ebenfalls mit 2:1 für sich. Somit kam es zum Elfmeterschießen. Dieses gewannen die Tennenbronner mit 3:1 und sicherten sich somit den erneuten Aufstieg in die Landesliga. Doch leider durfte der FVT nur ein Jahr in dieser Klasse verweilen und musste ab der Saison 1996/97 wieder Bezirksliga spielen.
+    Nach jener Saison legte Reinhold Fleig das Amt als Trainer nieder. Sein Nachfolger wurde Lutz Grützmacher. Mit ihm auf der Trainerbank spielte der FV bis zur Saison 1999/2000 in der Bezirksliga.
+    In der Winterpause der Saison 2000/2001 verließ Lutz Grützmacher den Verein. Sein Nachfolger wurde der Tennenbronner Volker Maier-Juranek, welcher bisher die A-Jugend des Vereins trainierte. Er übernahm die Leitung der Mannschaft in einer äußerst schlechten Situation. Der FVT war zu diesem Zeitpunkt auf dem letzten Tabellenplatz. Doch die Tennenbronner schafften den Klassenerhalt in dieser Spielzeit noch in letzter Sekunde.
+  picture: verein/geschichte/datei30.jpg
+- 
+  title: 2000er
+  text: 'In der Saison 2001/2002 erwischte es die Elf um Trainer Volker Maier dennoch mit dem Abstieg, und man musste den bitteren Weg von der Bezirksliga in die Kreisliga A antreten. Volker Maier betreute die Elf noch ein Jahr in der Kreisliga und wurde vom früheren Erfolgscoach Franz Moosmann abgelöst. In seinem ersten Amtsjahr knüpfte Franz Moosmann an seine erfolgreichen Jahre, wenn auch klassenmäßig etwas tiefer, wieder an. Er führte die Truppe zum Aufstieg und somit wieder zurück in die Bezirksliga. Die erste Saison wurde mit einem Mittelfeldplatz beendet, so dass man sich deutlich von den Abstiegsrängen fern hielt. Die weiteren drei Jahre wurden die Schwarz-Blauen wieder eine feste Größe mit guten vorderen Platzierungen.                                                                                     Nach vier abermals erfolgreichen Jahren gab Franz Moosmann die Trainingsregie an Alexis Pascariello ab. Sein Trainergastspiel war leider nur von kurzer Dauer und Interimscoach Winfried Hermes konnte zu Saisonschluss trotz glänzender Arbeit den abermaligen Gang in die Kreisliga nicht verhindern.'
+  picture: ""
+- 
+  title: '2009 - 2013'
+  text: 'Zu Beginn der Saison 2009/2010 übernahm der Furtwangener Georg Schandelmaier den Platz auf der Kommandobrücke des FV Tennenbronn. Er konnte qualitätsmäßig mit guten, jungen Spielern eine neue Mannschaft formen. Auch zahlenmäßig legte der Aktivenbereich deutlich zu, so dass wie in den 80er Jahren erneut eine dritte Mannschaft zum Spielbetrieb angemeldet werden konnte. Seine erste Saison krönte er mit dem zweiten Tabellenrang und war somit zu Relegation berechtigt. Mit zwei nervenaufreibenden Spielen auf dem Schächle und in St.Märgen klappte dann auf Anhieb der Sprung in die Bezirksliga. Als Neuling und jüngstes Team mischte man hier die Liga ordentlich auf und erzielte einen ausgezeichneten dritten Tabellenrang. In seiner dritten Amtszeit landete die Truppe erneut auf dem Relegationsrang und war erneut bei zwei weiteren Spielen gefordert. Im Rückspiel beim früheren Landesligakontrahenten, dem FC Salem gelang in einer wahren Hitzeschlacht und einer spannungsgeladenen Partie erneut der Aufstieg.  Nach 16 Jahren war man somit wieder in der Landesliga angekommen.                                                                                                                          In der  Saison 2012/2013 nahm das Trainergespann Bernd und Eckhard Günter auf der Trainerbank den Platz ein. Mit dem Novum in der Liga, nur FV-eigene Gewächse, wusste man um die Schwere des Klassenerhalts. Trotz guter Leistungen und enormen Verletzungspech konnte man die Liga leider nicht halten.'
+  picture: verein/geschichte/2013.jpg
+
+----
+
+Pages: false
+
+----
+
+Uuid: 03pM1PDxK9B1Smu9

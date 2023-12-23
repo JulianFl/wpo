@@ -1,0 +1,27 @@
+title: Home
+
+pages: false
+
+files: true
+
+preset: page
+
+template: home
+
+fields:
+
+  description:
+    label: Beschreibung
+    type: textarea
+    width: 1/2
+
+  keywords:
+    label: Stichwörter
+    type: textarea
+    width: 1/2
+
+  headerbild:
+    label: Bild
+    type: files
+    multiple: false
+

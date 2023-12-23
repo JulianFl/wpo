@@ -1,0 +1,44 @@
+title: Sponsoren
+
+files: true
+
+template: sponsoren
+
+pages: false
+
+fields:
+  title:
+    label: Titel
+    type: text
+
+  headerbild:
+    label: headerBild
+    type: files
+    multiple: false
+
+  tabs:
+    label: Vereinsheim
+    type: structure
+    style: table
+    fields:
+      title:
+        label: Titel
+        type: text
+      picture:
+        label: Logo
+        type: files
+        multiple: false
+      picture1:
+        label: Logo
+        type: files
+        multiple: false
+
+
+
+
+
+
+
+
+
+

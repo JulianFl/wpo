@@ -1,0 +1,67 @@
+title: Vereinsheim
+
+files: true
+
+  fields:
+    focus:
+      label: My focus field
+      type: focus
+
+template: vereinsheim
+
+pages: false
+
+fields:
+  focus:
+    label: My focus field
+    type: focus
+
+  title:
+    label: Titel
+    type: Text
+
+  headerbild:
+    label: headerBild
+    type: files
+    multiple: false
+
+  ueberschrift:
+    label: Überschrift
+    type: text
+
+  einstiegstext:
+    label: Einstiegstext
+    type: textarea
+    width: 1/2
+
+  team:
+     label: Team
+     type: files
+     multiple: false
+     width: 1/2
+
+  tabs:
+    label: Vereinsheim
+    type: structure
+    fields:
+      title:
+        label: Title
+        type: Text
+      text:
+        label: Text
+        type: textarea
+      picture:
+        label: Bild
+        type: files
+        multiple: false
+      gallery:
+        label: Fotos
+        type: textarea
+        help: Kopiere:(gallery:bild1.jpg bild2.jpg bild3.jpg bild4.jpg bild5.jpg limit:5) und benenne "bild1.jpg bild2.jpg" usw. entsprechend um
+
+
+
+
+
+
+

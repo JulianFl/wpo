@@ -1,0 +1,41 @@
+Title: F-Jugend
+
+----
+
+Text: Unsere F-Jugend trainiert jeden Montag ab 17:30 Uhr auf dem Schächle.
+
+----
+
+Mannschaftsbild: mannschaften/jugend/6-f-jugend/platzhalter_jugend_mannschaftsfoto.jpg
+
+----
+
+Tabs: 
+
+- 
+  name: Daniel Haas
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: F-Jugend@fv-tennenbronn.de
+  trainerbild: >
+    mannschaften/jugend/6-f-jugend/daniel_haas.jpg
+- 
+  name: Madlen Broghammer
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: F-Jugend@fv-tennenbronn.de
+  trainerbild: >
+    mannschaften/jugend/6-f-jugend/madlen_broghammer.jpg
+- 
+  name: Gerhard Rothkrantz
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: F-Jugend@fv-tennenbronn.de
+  trainerbild: >
+    mannschaften/jugend/6-f-jugend/rotkranz_trainer.jpg

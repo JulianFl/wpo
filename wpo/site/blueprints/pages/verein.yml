@@ -1,0 +1,32 @@
+title: Verein
+
+files: true
+
+pages: true
+
+preset: page
+
+template: verein
+
+fields:
+
+  title:
+    label: Titel
+    type: text
+
+  headerbild:
+    type: files
+    multiple: false
+
+  #    label: Bild
+#    type: select
+#    options: files
+
+  text:
+    label: Text
+    type: textarea
+
+
+
+
+

@@ -1,0 +1,30 @@
+title: News
+
+template: news
+
+preset: page
+
+pages:
+  template: article
+
+files: true
+
+fields:
+  description:
+    label: Beschreibung
+    type: textarea
+    width: 1/2
+
+  keywords:
+    label: Stichwörter
+    type: textarea
+    width: 1/2
+
+  title:
+    label: Titel
+    type: text
+
+
+
+
+

@@ -1,0 +1,67 @@
+Title: Jugendleitung
+
+----
+
+Description: Infos zur Jugendleitung des FV Tennenbronns finden Sie hier.
+
+----
+
+Keywords: Jugendleitung, FV Tennenbronn, FVT, Fußballverein
+
+----
+
+Headerbild: verein/jugendleitung/Vereinsheim.JPG
+
+----
+
+Tabs:
+
+- 
+  title: Jugendleitung
+  name: Jana Wegner
+  street: 'Aufgaben: Spielbetrieb'
+  zip: null
+  location: ""
+  phone: "015786845470"
+  email: jugend@fv-tennenbronn.de
+  picture: verein/jugendleitung/jana_moosmann.jpg
+- 
+  title: Jugendleitung
+  name: Thomas Noth
+  street: ""
+  zip: null
+  location: ""
+  phone: 0176 45944471
+  email: jugend@fv-tennenbronn.de
+  picture: verein/jugendleitung/thomas_noth.jpg
+- 
+  title: Jugendleitung
+  name: Daniel Klausmann
+  street: ""
+  zip: null
+  location: ""
+  phone: ""
+  email: jugend@fv-tennenbronn.de
+  picture: >
+    verein/jugendleitung/daniel_klausmann.jpg
+
+----
+
+Pages: false
+
+----
+
+Tabs1:
+
+- 
+  title1: Vereinsheim
+  text1: Lorem
+  picture1: Vereinsheim.JPG
+
+----
+
+Gallery: (gallery: all limit:5)
+
+----
+
+Uuid: WTHQe68ycqNxAEzd

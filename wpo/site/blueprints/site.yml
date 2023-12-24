@@ -1,8 +1,0 @@
-title: Site
-
-columns:
-  - width: 1
-    sections:
-      pages:
-        type: pages
-

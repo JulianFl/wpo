@@ -46,15 +46,13 @@ window.addEventListener('load', function () {
   .catch(error => {
     // console.error('Error:', error);
   });
-  sendToAnalytics("{name: 'load', value: window.performance.now() - window.performance.timing.navigationStart}")
   onCLS(sendToAnalytics);
   onFID(sendToAnalytics);
   onLCP(sendToAnalytics);
   function sendToAnalytics(metric) {
-    console.log(metric);
     let uuid = localStorage.getItem('uuid');
     const body = JSON.stringify({uuid, ...metric});
-    fetch('old-cwv.php', {body: body, method: 'POST',    headers: {
+    fetch('old-cwv.php', {body, method: 'POST',    headers: {
         'Content-Type': 'application/json',
       }
     });
